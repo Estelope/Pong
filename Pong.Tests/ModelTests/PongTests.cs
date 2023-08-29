@@ -1,10 +1,10 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using ProjectName.Models;
 
-namespace ProjectName.Tests
+namespace Pong.Tests
 {
   [TestClass]
-  public class ClassNameTests
+  public class PongTests
   {
     // Test methods go here
   }
